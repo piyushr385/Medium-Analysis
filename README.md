@@ -32,4 +32,29 @@ It allows content to be both easily created and consumed, and is strongly influe
 
 ## Results: 
 
+**How many claps do Medium articles receive?**
+
+<img src='Images/Total_claps.PNG' width="500">
+
+**How long are Medium articles?**
+
+<img src='Images/Average Reading Time.PNG' width="500">
+
+**What percent of authors have been published in a publication?**
+
+<img src='Images/Authors articles published.PNG' width="500">
+
+**Prolific authors write more than 16 articles**
+
+<img src='Images/Top 1% writers.PNG' width="500">
+
+**Exceptional articles receive 1200 claps.**
+
+<img src='Images/Top 1% Articles Claps.PNG' width="500">
+
+**Top 20 Consistent Authors with Highest Claps per Article**
+
+<img src='Images/top 20 consistent authors.PNG' width="500">
+
+
 
